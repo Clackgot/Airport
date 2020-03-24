@@ -1,0 +1,11 @@
+airplane.o
+company.o
+direction.o
+status.o
+terminal.o
+trip.o
+control.o
+main.o
+mainwindow.o
+qrc_images.o
+moc_mainwindow.o
